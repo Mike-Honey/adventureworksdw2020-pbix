@@ -1,3 +1,9 @@
+# _Mike Honey fork:_
+
+_I used the (partially incorrect) instructions below to generate the PBIT file and loaded that as a PBIX file, which are shared in this fork. pbi-tools.core is required, pbi-tools does not work. I hope this saves someone some time in the future._
+
+_(end of Mike Honey fork notes)_
+
 # Adventure Works DW 2020 - DAX Sample Model - PBIX Sources
 
 The Adventure Works DW 2020 Power BI Desktop sample model is distributed by Microsoft for learning and training purposes. The model is available as a (binary) PBIX file here: <https://github.com/microsoft/powerbi-desktop-samples/tree/main/DAX>. The data sources defined in the file are not publicly accessible. Instead, a user would need to restore a database backup to one of their own SQL servers and adjust the connection settings in the model.
