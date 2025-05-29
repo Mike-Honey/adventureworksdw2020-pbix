@@ -1,6 +1,6 @@
 # _Mike Honey fork:_
 
-_I used the (partially incorrect) instructions below to generate the PBIT file and loaded that as a PBIX file, which are shared in this fork. pbi-tools.core is required, pbi-tools does not work. I hope this saves someone some time in the future._
+_I used the (partially incorrect) instructions below to generate the PBIT file and loaded that as a PBIX file, which are shared in this fork. pbi-tools.core is required, pbi-tools does not work, but with this fork you don't need to bother with all that - just download the PBIX and "sample on". I hope this saves someone some time in the future._
 
 _(end of Mike Honey fork notes)_
 
